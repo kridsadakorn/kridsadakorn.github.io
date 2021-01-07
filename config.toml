@@ -1,3 +1,4 @@
 languageCode = "en-us"
-title = "Test"
+title = "BIOSTATGEN.ORG"
 publishDir = "../kridsadakorn.github.io"
+theme = "stip"
