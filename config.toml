@@ -2,3 +2,23 @@ languageCode = "en-us"
 title = "BIOSTATGEN.ORG"
 publishDir = "../kridsadakorn.github.io"
 theme = "stip"
+[Author]
+    name = "Jane Doe"
+    bio = "Professional coffee drinker"
+    
+[params]
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/"
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "E-mail"
+        url = "mailto:mail@example.org"
+        
+[params.colors]
+    background = "#000000"
+    circle = "#3942ba"
+    foreground = "#c7d0fc"
+    hover = "#cd6cf7"
