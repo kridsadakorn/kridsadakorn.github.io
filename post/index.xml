@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>https://www.biostatgen.org/</link>
-    <description>Recent content on </description>
+    <title>Posts on </title>
+    <link>https://www.biostatgen.org/post/</link>
+    <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.biostatgen.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.biostatgen.org/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Population in Thailand</title>
       <link>https://www.biostatgen.org/post/population-in-thailand/</link>
@@ -23,15 +23,6 @@
       
       <guid>https://www.biostatgen.org/post/about/</guid>
       <description>About me Dr. Chaichoompu has scientific expertise in informatics (parallel/high-performance computing and machine learning), bioinformatics, and biostatistics. He has been working for multidisciplinary scientific research since he started his research career in 2006 as a Research Assistant at Biostatistics and Informatics Laboratory, Genome Institute, National Center for Genetic Engineering and Biotechnology (BIOTEC), Thailand. During his time at BIOTEC, he was involved in many research projects, which could be categorized into five main areas: genomic data analysis, population structure analysis, tool and algorithm development, web application and database development, and computer hardware acceleration.</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>https://www.biostatgen.org/about/</link>
-      <pubDate>Tue, 14 Apr 2020 22:17:00 +0000</pubDate>
-      
-      <guid>https://www.biostatgen.org/about/</guid>
-      <description>Dr. Chaichoompu has scientific expertise in informatics (parallel/high-performance computing and machine learning), bioinformatics, and biostatistics. He has been working for multidisciplinary scientific research since he started his research career in 2006 as a Research Assistant at Biostatistics and Informatics Laboratory, Genome Institute, National Center for Genetic Engineering and Biotechnology (BIOTEC), Thailand. During his time at BIOTEC, he was involved in many research projects, which could be categorized into five main areas: genomic data analysis, population structure analysis, tool and algorithm development, web application and database development, and computer hardware acceleration.</description>
     </item>
     
     <item>
