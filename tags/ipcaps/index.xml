@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Biostatgen</title>
-    <link>https://www.biostatgen.org/post/</link>
-    <description>Recent content in Posts on Biostatgen</description>
+    <title>IPCAPS on Biostatgen</title>
+    <link>https://www.biostatgen.org/tags/ipcaps/</link>
+    <description>Recent content in IPCAPS on Biostatgen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://www.biostatgen.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://www.biostatgen.org/tags/ipcaps/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Capturing fine-scale structure</title>
       <link>https://www.biostatgen.org/post/2019-04-17-capturing-fine-scale-structure/</link>
@@ -14,15 +14,6 @@
       
       <guid>https://www.biostatgen.org/post/2019-04-17-capturing-fine-scale-structure/</guid>
       <description>Biologically, a population is a group of living organisms of the same species that are living together and have the capability of interbreeding.</description>
-    </item>
-    
-    <item>
-      <title>R package FILEST</title>
-      <link>https://www.biostatgen.org/post/2018-06-14-r-package-filest/</link>
-      <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.biostatgen.org/post/2018-06-14-r-package-filest/</guid>
-      <description>A population genetic simulator, which is able to generate synthetic datasets for single-nucleotide polymorphisms (SNP) for multiple populations.</description>
     </item>
     
     <item>

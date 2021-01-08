@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on </title>
+    <title>Tags on Biostatgen</title>
     <link>https://www.biostatgen.org/tags/</link>
-    <description>Recent content in Tags on </description>
+    <description>Recent content in Tags on Biostatgen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language><atom:link href="https://www.biostatgen.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://www.biostatgen.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IPCAPS</title>
+      <link>https://www.biostatgen.org/tags/ipcaps/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.biostatgen.org/tags/ipcaps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KRIS</title>
+      <link>https://www.biostatgen.org/tags/kris/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.biostatgen.org/tags/kris/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
