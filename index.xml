@@ -53,21 +53,12 @@
     </item>
     
     <item>
-      <title>John Doe</title>
-      <link>https://www.biostatgen.org/author/john-doe/</link>
+      <title>Kridsadakorn Chaichoompu</title>
+      <link>https://www.biostatgen.org/author/kridsadakorn-chaichoompu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.biostatgen.org/author/john-doe/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Mark Dinn</title>
-      <link>https://www.biostatgen.org/author/mark-dinn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.biostatgen.org/author/mark-dinn/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://www.biostatgen.org/author/kridsadakorn-chaichoompu/</guid>
+      <description>Dr Chaichoompu has scientific expertise in informatics (parallel/high-performance computing and machine learning), bioinformatics, and biostatistics.</description>
     </item>
     
   </channel>
