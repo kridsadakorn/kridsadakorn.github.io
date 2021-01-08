@@ -1,36 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on </title>
+    <title>Categories on Biostatgen</title>
     <link>https://www.biostatgen.org/categories/</link>
-    <description>Recent content in Categories on </description>
+    <description>Recent content in Categories on Biostatgen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.biostatgen.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://www.biostatgen.org/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project</title>
       <link>https://www.biostatgen.org/categories/project/</link>
-      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.biostatgen.org/categories/project/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Publication</title>
-      <link>https://www.biostatgen.org/categories/publication/</link>
-      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      <title>R package</title>
+      <link>https://www.biostatgen.org/categories/r-package/</link>
+      <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.biostatgen.org/categories/publication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://www.biostatgen.org/categories/about/</link>
-      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.biostatgen.org/categories/about/</guid>
+      <guid>https://www.biostatgen.org/categories/r-package/</guid>
       <description></description>
     </item>
     

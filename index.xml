@@ -1,46 +1,73 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
+    <title>Biostatgen</title>
     <link>https://www.biostatgen.org/</link>
-    <description>Recent content on </description>
+    <description>Recent content on Biostatgen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.biostatgen.org/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Population in Thailand</title>
-      <link>https://www.biostatgen.org/post/population-in-thailand/</link>
-      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.biostatgen.org/post/population-in-thailand/</guid>
-      <description>Inside story: From the very beginning of human existence one thing has always been constant and that is movement. Humans just like animals tend to move about a lot. They rarely stay in one particular region for so long. Its either they travel to other places to visit, for work purposes or to settle down. Migration is quite high in the human populace. Asia being the most populous continent on planet earth has a huge variation in ethnicity, language and gene make up of its population and the constant movement of people in and out of that region has made it complicated to trace the origin of the diversity in that region.</description>
-    </item>
-    
-    <item>
-      <title>Life Story</title>
-      <link>https://www.biostatgen.org/post/about/</link>
-      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.biostatgen.org/post/about/</guid>
-      <description>About me Dr. Chaichoompu has scientific expertise in informatics (parallel/high-performance computing and machine learning), bioinformatics, and biostatistics. He has been working for multidisciplinary scientific research since he started his research career in 2006 as a Research Assistant at Biostatistics and Informatics Laboratory, Genome Institute, National Center for Genetic Engineering and Biotechnology (BIOTEC), Thailand. During his time at BIOTEC, he was involved in many research projects, which could be categorized into five main areas: genomic data analysis, population structure analysis, tool and algorithm development, web application and database development, and computer hardware acceleration.</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>https://www.biostatgen.org/about/</link>
-      <pubDate>Tue, 14 Apr 2020 22:17:00 +0000</pubDate>
-      
-      <guid>https://www.biostatgen.org/about/</guid>
-      <description>Dr. Chaichoompu has scientific expertise in informatics (parallel/high-performance computing and machine learning), bioinformatics, and biostatistics. He has been working for multidisciplinary scientific research since he started his research career in 2006 as a Research Assistant at Biostatistics and Informatics Laboratory, Genome Institute, National Center for Genetic Engineering and Biotechnology (BIOTEC), Thailand. During his time at BIOTEC, he was involved in many research projects, which could be categorized into five main areas: genomic data analysis, population structure analysis, tool and algorithm development, web application and database development, and computer hardware acceleration.</description>
-    </item>
-    
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://www.biostatgen.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Capturing fine-scale structure</title>
-      <link>https://www.biostatgen.org/post/capturing-fine-scale-structure/</link>
-      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      <link>https://www.biostatgen.org/post/2019-04-17-capturing-fine-scale-structure/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.biostatgen.org/post/capturing-fine-scale-structure/</guid>
-      <description>Inside story: Biologically, a population is a group of living organisms of the same species that are living together and have the capability of interbreeding. Evolutionary processes such as migration, natural selection etc., has overtime contributed to the variations in the gene makeup of individuals that makes up a particular population. Subpopulations are as a result of these variations that are present in genes of individuals of a population. Population studies have several importance among which are; Information gotten from population studies can be used to infer population history, also studying the population of a place can reveal predisposing factors of disease in that place and several others.</description>
+      <guid>https://www.biostatgen.org/post/2019-04-17-capturing-fine-scale-structure/</guid>
+      <description>Biologically, a population is a group of living organisms of the same species that are living together and have the capability of interbreeding.</description>
+    </item>
+    
+    <item>
+      <title>R package FILEST</title>
+      <link>https://www.biostatgen.org/post/2018-06-14-r-package-filest/</link>
+      <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.biostatgen.org/post/2018-06-14-r-package-filest/</guid>
+      <description>A population genetic simulator, which is able to generate synthetic datasets for single-nucleotide polymorphisms (SNP) for multiple populations.</description>
+    </item>
+    
+    <item>
+      <title>R Package IPCAPS</title>
+      <link>https://www.biostatgen.org/post/2018-06-11-r-package-ipcaps/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.biostatgen.org/post/2018-06-11-r-package-ipcaps/</guid>
+      <description>The R package IPCAPS is an unsupervised clustering algorithm based on iterative pruning to capture population structure.</description>
+    </item>
+    
+    <item>
+      <title>R Package KRIS</title>
+      <link>https://www.biostatgen.org/post/2018-06-04-r-package-kris/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.biostatgen.org/post/2018-06-04-r-package-kris/</guid>
+      <description>Provides useful functions which are needed for bioinformatic analysis such as calculating linear principal components from numeric data and Single-nucleotide polymorphism (SNP) dataset, calculating fixation index (Fst) using Hudson method, creating scatter plots in 3 views, handling with PLINK binary file format, detecting rough structures and outliers using unsupervised clustering, and calculating matrix multiplication in the faster way for big data.</description>
+    </item>
+    
+    <item>
+      <title>Sub-populations of Thailand</title>
+      <link>https://www.biostatgen.org/post/2013-12-18-sub-populations-of-thailand/</link>
+      <pubDate>Wed, 18 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.biostatgen.org/post/2013-12-18-sub-populations-of-thailand/</guid>
+      <description>From the very beginning of human existence one thing has always been constant and that is movement.</description>
+    </item>
+    
+    <item>
+      <title>John Doe</title>
+      <link>https://www.biostatgen.org/author/john-doe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.biostatgen.org/author/john-doe/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Mark Dinn</title>
+      <link>https://www.biostatgen.org/author/mark-dinn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.biostatgen.org/author/mark-dinn/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
   </channel>

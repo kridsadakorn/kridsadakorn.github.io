@@ -4,56 +4,91 @@
   
   <url>
     <loc>https://www.biostatgen.org/</loc>
-    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.biostatgen.org/post/2019-04-17-capturing-fine-scale-structure/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.biostatgen.org/categories/</loc>
-    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.biostatgen.org/post/population-in-thailand/</loc>
-    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
+    <loc>https://www.biostatgen.org/tags/ipcaps/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.biostatgen.org/post/</loc>
-    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.biostatgen.org/categories/project/</loc>
-    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.biostatgen.org/categories/publication/</loc>
-    <lastmod>2020-08-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.biostatgen.org/categories/about/</loc>
-    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.biostatgen.org/post/about/</loc>
-    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.biostatgen.org/about/</loc>
-    <lastmod>2020-04-14T22:17:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.biostatgen.org/post/capturing-fine-scale-structure/</loc>
-    <lastmod>2020-03-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.biostatgen.org/tags/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.biostatgen.org/categories/r-package/</loc>
+    <lastmod>2018-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.biostatgen.org/post/2018-06-14-r-package-filest/</loc>
+    <lastmod>2018-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.biostatgen.org/post/2018-06-11-r-package-ipcaps/</loc>
+    <lastmod>2018-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.biostatgen.org/tags/kris/</loc>
+    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.biostatgen.org/post/2018-06-04-r-package-kris/</loc>
+    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.biostatgen.org/post/2013-12-18-sub-populations-of-thailand/</loc>
+    <lastmod>2013-12-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.biostatgen.org/author/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.biostatgen.org/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.biostatgen.org/author/john-doe/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.biostatgen.org/author/mark-dinn/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.biostatgen.org/search/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.biostatgen.org/tools/</loc>
   </url>
   
 </urlset>
