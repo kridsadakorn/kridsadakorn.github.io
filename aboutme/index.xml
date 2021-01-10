@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kridsadakorn Chaichoompu</title>
-    <link>https://www.biostatgen.org/</link>
+    <link>https://www.biostatgen.org/aboutme/</link>
     <description>Recent content on Kridsadakorn Chaichoompu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://www.biostatgen.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://www.biostatgen.org/aboutme/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
