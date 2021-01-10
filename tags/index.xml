@@ -6,11 +6,20 @@
     <description>Recent content in Tags on Biostatgen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://www.biostatgen.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Nov 2020 05:00:00 +0000</lastBuildDate><atom:link href="https://www.biostatgen.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EpiScanpy</title>
+      <link>https://www.biostatgen.org/tags/episcanpy/</link>
+      <pubDate>Mon, 30 Nov 2020 05:00:00 +0000</pubDate>
+      
+      <guid>https://www.biostatgen.org/tags/episcanpy/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>IPCAPS</title>
       <link>https://www.biostatgen.org/tags/ipcaps/</link>
-      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 17 Apr 2019 05:00:00 +0000</pubDate>
       
       <guid>https://www.biostatgen.org/tags/ipcaps/</guid>
       <description></description>
@@ -19,7 +28,7 @@
     <item>
       <title>KRIS</title>
       <link>https://www.biostatgen.org/tags/kris/</link>
-      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 04 Jun 2018 05:00:00 +0000</pubDate>
       
       <guid>https://www.biostatgen.org/tags/kris/</guid>
       <description></description>

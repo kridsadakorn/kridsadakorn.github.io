@@ -6,11 +6,11 @@
     <description>Recent content in IPCAPS on Biostatgen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://www.biostatgen.org/tags/ipcaps/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Apr 2019 05:00:00 +0000</lastBuildDate><atom:link href="https://www.biostatgen.org/tags/ipcaps/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Capturing fine-scale structure</title>
       <link>https://www.biostatgen.org/post/2019-04-17-capturing-fine-scale-structure/</link>
-      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 17 Apr 2019 05:00:00 +0000</pubDate>
       
       <guid>https://www.biostatgen.org/post/2019-04-17-capturing-fine-scale-structure/</guid>
       <description>Biologically, a population is a group of living organisms of the same species that are living together and have the capability of interbreeding.</description>
@@ -19,7 +19,7 @@
     <item>
       <title>R Package IPCAPS</title>
       <link>https://www.biostatgen.org/post/2018-06-11-r-package-ipcaps/</link>
-      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Jun 2018 05:00:00 +0000</pubDate>
       
       <guid>https://www.biostatgen.org/post/2018-06-11-r-package-ipcaps/</guid>
       <description>The R package IPCAPS is an unsupervised clustering algorithm based on iterative pruning to capture population structure.</description>
@@ -28,7 +28,7 @@
     <item>
       <title>R Package KRIS</title>
       <link>https://www.biostatgen.org/post/2018-06-04-r-package-kris/</link>
-      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 04 Jun 2018 05:00:00 +0000</pubDate>
       
       <guid>https://www.biostatgen.org/post/2018-06-04-r-package-kris/</guid>
       <description>Provides useful functions which are needed for bioinformatic analysis such as calculating linear principal components from numeric data and Single-nucleotide polymorphism (SNP) dataset, calculating fixation index (Fst) using Hudson method, creating scatter plots in 3 views, handling with PLINK binary file format, detecting rough structures and outliers using unsupervised clustering, and calculating matrix multiplication in the faster way for big data.</description>
@@ -37,7 +37,7 @@
     <item>
       <title>Sub-populations of Thailand</title>
       <link>https://www.biostatgen.org/post/2013-12-18-sub-populations-of-thailand/</link>
-      <pubDate>Wed, 18 Dec 2013 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 18 Dec 2013 05:00:00 +0000</pubDate>
       
       <guid>https://www.biostatgen.org/post/2013-12-18-sub-populations-of-thailand/</guid>
       <description>From the very beginning of human existence one thing has always been constant and that is movement.</description>

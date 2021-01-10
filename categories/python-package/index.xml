@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python Package on Biostatgen</title>
+    <link>https://www.biostatgen.org/categories/python-package/</link>
+    <description>Recent content in Python Package on Biostatgen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Nov 2020 05:00:00 +0000</lastBuildDate><atom:link href="https://www.biostatgen.org/categories/python-package/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python Pacakge EpiScanpy</title>
+      <link>https://www.biostatgen.org/post/2020-11-30-python-pacakge-episcanpy/</link>
+      <pubDate>Mon, 30 Nov 2020 05:00:00 +0000</pubDate>
+      
+      <guid>https://www.biostatgen.org/post/2020-11-30-python-pacakge-episcanpy/</guid>
+      <description>EpiScanpy – Epigenomics single cell analysis in python EpiScanpy is a toolkit to analyse single-cell open chromatin (scATAC-seq) and single-cell DNA methylation (for example scBS-seq) data.</description>
+    </item>
+    
+  </channel>
+</rss>
