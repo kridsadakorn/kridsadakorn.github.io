@@ -1,110 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://www.biostatgen.org/</loc>
     <lastmod>2020-11-30T05:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.biostatgen.org/categories/</loc>
     <lastmod>2020-11-30T05:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.biostatgen.org/tags/episcanpy/</loc>
     <lastmod>2020-11-30T05:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.biostatgen.org/post/</loc>
     <lastmod>2020-11-30T05:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.biostatgen.org/categories/python-package/</loc>
     <lastmod>2020-11-30T05:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.biostatgen.org/post/2020-11-30-python-package-episcanpy/</loc>
     <lastmod>2020-11-30T05:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.biostatgen.org/tags/</loc>
     <lastmod>2020-11-30T05:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.biostatgen.org/tags/ipcaps/</loc>
     <lastmod>2020-08-15T05:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.biostatgen.org/categories/project/</loc>
     <lastmod>2020-08-15T05:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.biostatgen.org/post/2020-08-15-western-african/</loc>
     <lastmod>2020-08-15T05:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.biostatgen.org/post/2019-04-17-capturing-fine-scale-structure/</loc>
     <lastmod>2019-04-17T05:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.biostatgen.org/categories/r-package/</loc>
     <lastmod>2018-06-14T05:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.biostatgen.org/post/2018-06-14-r-package-filest/</loc>
     <lastmod>2018-06-14T05:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.biostatgen.org/post/2018-06-11-r-package-ipcaps/</loc>
     <lastmod>2018-06-11T05:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.biostatgen.org/tags/kris/</loc>
     <lastmod>2018-06-04T05:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.biostatgen.org/post/2018-06-04-r-package-kris/</loc>
     <lastmod>2018-06-04T05:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.biostatgen.org/post/2013-12-18-sub-populations-of-thailand/</loc>
     <lastmod>2013-12-18T05:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.biostatgen.org/author/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.biostatgen.org/contact/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.biostatgen.org/author/kridsadakorn-chaichoompu/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.biostatgen.org/search/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.biostatgen.org/tools/</loc>
   </url>
-  
 </urlset>

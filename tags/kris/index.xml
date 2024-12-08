@@ -4,17 +4,16 @@
     <title>KRIS on Biostatgen</title>
     <link>https://www.biostatgen.org/tags/kris/</link>
     <description>Recent content in KRIS on Biostatgen</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jun 2018 05:00:00 +0000</lastBuildDate><atom:link href="https://www.biostatgen.org/tags/kris/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jun 2018 05:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.biostatgen.org/tags/kris/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>R Package KRIS</title>
       <link>https://www.biostatgen.org/post/2018-06-04-r-package-kris/</link>
       <pubDate>Mon, 04 Jun 2018 05:00:00 +0000</pubDate>
-      
       <guid>https://www.biostatgen.org/post/2018-06-04-r-package-kris/</guid>
       <description>Provides useful functions which are needed for bioinformatic analysis such as calculating linear principal components from numeric data and Single-nucleotide polymorphism (SNP) dataset, calculating fixation index (Fst) using Hudson method, creating scatter plots in 3 views, handling with PLINK binary file format, detecting rough structures and outliers using unsupervised clustering, and calculating matrix multiplication in the faster way for big data.</description>
     </item>
-    
   </channel>
 </rss>
